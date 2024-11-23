@@ -20,6 +20,7 @@
             <s:submit value="Submit" />
         </s:form>
         <p><a href="register.jsp">Please register</a> for our prize drawing.</p>
+        <p><a href="registros.jsp">Please register two</a> for our prize drawing.</p>
 
     </body>
 </html>

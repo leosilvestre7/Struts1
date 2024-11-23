@@ -17,10 +17,10 @@
     <h3>Register for a prize by completing this form.</h3>
 
     <s:form action="register">
-      <s:textfield name="personBean.firstName" label="First name" />
-      <s:textfield name="personBean.lastName" label="Last name" />
-      <s:textfield name="personBean.email"  label ="Email"/>  
-      <s:textfield name="personBean.age"  label="Age"  />
+      <s:textfield name="userBean.firstName" label="First name" />
+      <s:textfield name="userBean.lastName" label="Last name" />
+      <s:textfield name="userBean.email"  label ="Email"/>  
+      <s:textfield name="userBean.age"  label="Age"  />
       <s:submit/>
     </s:form>	
   </body>
